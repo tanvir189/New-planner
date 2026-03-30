@@ -1,0 +1,5 @@
+{
+  "name": "Offline Daily Planner",
+  "description": "A minimalistic, 100% offline daily to-do list with date-based task tracking and history.",
+  "requestFramePermissions": []
+}
